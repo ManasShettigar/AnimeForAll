@@ -14,3 +14,4 @@ It also provide Ad free experience For Special Users how does a maximuma shares 
 JasonPowerDB helps my site to be benficial with least number of code. It is light weight as no installation is required here just the connection token is important.
 It is best for the beginners and for startups. It has high computational power and high performance with fastest indexing which can handle a huge amount of data .
 It is also cost efficient and the total data processing time is reduced atlest 7-8 times.
+# Status = Beta
